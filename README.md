@@ -1,8 +1,10 @@
 # The Grog Can mod
 
-![Icon](icon.png) ![Grogs in hand](grogs_in_hand_250px.jpg)
+![Icon](https://raw.githubusercontent.com/tomini/TheGrogCan/main/icon.png) ![Grogs in hand](https://raw.githubusercontent.com/tomini/TheGrogCan/main/grogs_in_hand_250px.jpg)
  
 Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, random at launch)
+
+[Funny mod video](https://youtu.be/syAzsMhn8B4)
 
 ## Config
 
@@ -48,7 +50,8 @@ While this mod doesn't break other mods, it can't replace the texture if these m
 ## Thanks!
 
 Thank you, [KlutzyBubbles](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/) for the [VBCan mod](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/VBCan/).
-Big thanks to willis81808 for their invaluable assistance and warm welcome! As a first-time game modder, having someone so kind and helpful made a world of difference. 
+
+Big thanks to **willis81808** for their invaluable assistance and warm welcome! As a first-time game modder, having someone so kind and helpful made a world of difference. 
 
 ## Contact
 
