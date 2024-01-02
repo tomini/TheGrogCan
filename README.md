@@ -4,7 +4,7 @@
  
 Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, random at launch)
 
-[Funny mod video](https://youtu.be/syAzsMhn8B4)
+Funny mod video --> **[HERE](https://youtu.be/syAzsMhn8B4)**
 
 ## Config
 
@@ -17,25 +17,29 @@ You can change the behaviour of this mod after first launch with the mod:
     - `2` -> Grog Peach
 3. Enjoy your Grog!
 
+## &#128736; Mod Manager Friendly &#128736;
+![r2modman](https://raw.githubusercontent.com/ebkr/r2modmanPlus/master/src/assets/icon/96x96.png) &  ![Thunderstore](https://www.overwolf.com/oneapp/assets/img/app-page/thunderstore-mod-manager/app-icon.webp)
+
 ## Manual installation
 
 1. Download and unzip
-2. Move `BepInEx` folder to the Lethal Company folder (e.g. `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`)
+2. Move `BepInEx` folder to the Lethal Company folder
+    (e.g. `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`)
 3. You can check if you did it right:
     1. Look up mod files:
-        - inside `.\BepInEx\plugins` folder there is `TheGrogCan_by_Tomini` folder and `TheGrogCan_by_Tomini.dll` file
+        - inside `.\BepInEx\plugins` folder there is `TheGrogCan_by_Tomini.dll` file
     2. Look at BepInEx log at start-up:
         ```
-        [Info   :   BepInEx] Loading [TheGrogCan_by_Tomini 1.0.0]
+        [Info   :   BepInEx] Loading [TheGrogCan_by_Tomini 1.0.4]
         [Info   :TheGrogCan_by_Tomini] Loaded asset bundle
-        [Info   :TheGrogCan_by_Tomini] Texture choice from config: 0
-        [Info   :TheGrogCan_by_Tomini] Randomly selected texture: Grog Grape
+        [Info   :TheGrogCan_by_Tomini] Configuration: Random
+        [Info   :TheGrogCan_by_Tomini] Selected texture: grog_lemon
         [Info   :TheGrogCan_by_Tomini] Plugin TheGrogCan_by_Tomini is loaded!
         ```
 
 ## Future of this mod
 
-- add Lemon Ice Grog
+- ~~add Lemon Ice Grog~~ &#10004;
 - add custom sound(s)
 - change item name
 - texture randomization within session

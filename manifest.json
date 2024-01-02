@@ -1,8 +1,8 @@
 {
     "name": "TheGrogCan",
-    "version_number": "1.0.2",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/tomini/TheGrogCan",
-    "description": "Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, random at launch)",
+    "description": "Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, lemon, random at launch)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
