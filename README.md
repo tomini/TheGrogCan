@@ -2,7 +2,7 @@
 
 ![Icon](https://raw.githubusercontent.com/tomini/TheGrogCan/main/icon.png) ![Grogs in hand](https://raw.githubusercontent.com/tomini/TheGrogCan/main/grogs_in_hand_small.jpg)
  
-Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, random at launch)
+Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, lemon, random at launch)
 
 Funny mod video --> **[HERE](https://youtu.be/syAzsMhn8B4)**
 

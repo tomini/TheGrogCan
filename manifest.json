@@ -1,6 +1,6 @@
 {
     "name": "TheGrogCan",
-    "version_number": "1.0.4",
+    "version_number": "1.0.5",
     "website_url": "https://github.com/tomini/TheGrogCan",
     "description": "Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, lemon, random at launch)",
     "dependencies": [
