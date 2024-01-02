@@ -1,6 +1,6 @@
 # The Grog Can mod
 
-![Icon](https://raw.githubusercontent.com/tomini/TheGrogCan/main/icon.png) ![Grogs in hand](https://raw.githubusercontent.com/tomini/TheGrogCan/main/grogs_in_hand_250px.jpg)
+![Icon](https://raw.githubusercontent.com/tomini/TheGrogCan/main/icon.png) ![Grogs in hand](https://raw.githubusercontent.com/tomini/TheGrogCan/main/grogs_in_hand_small.jpg)
  
 Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, random at launch)
 
