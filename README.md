@@ -6,6 +6,9 @@ Replaces the Red Soda item with a Grog from Cold Ones. (peach, grape, lemon, ran
 
 Funny mod video --> **[HERE](https://youtu.be/syAzsMhn8B4)**
 
+## Download / Install
+### **[Thunderstore](https://thunderstore.io/c/lethal-company/p/Tomini/TheGrogCan)**
+
 ## Config
 
 You can change the behaviour of this mod after first launch with the mod:
@@ -15,6 +18,7 @@ You can change the behaviour of this mod after first launch with the mod:
     - `0` -> Random at start-up
     - `1` -> Grog Grape
     - `2` -> Grog Peach
+    - `3` -> Grog Lemon Ice
 3. Enjoy your Grog!
 
 ## &#128736; Mod Manager Friendly &#128736;
